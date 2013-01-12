@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OSCLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../OSCLib/out/artifacts/OSCLib_jar/OSCLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
